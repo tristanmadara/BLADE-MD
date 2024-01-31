@@ -1,17 +1,17 @@
- Fork the repo
-    <br>
-<a href="https://github.com/Bladeh4x/BLADE-MD/fork"><img title="BLADE-1.0" src="https://img.shields.io/badge/FORK BLADE-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
++ Fork the repo
+   shift <br>
+^a href="https://github.com/jaceh4x/jace-MD/fork"><img title="jace-1.0" src="https://img.shields.io/badge/FORK jace bot-1.0-h?color=black&style=for-the-badge&logo=stackshare"></a>
 </p>
 <p align="center">
-  <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
+  <a href=///https://chat.whatsapp.com/KRpe1xiaJa95UOGhIHPSusESB8e9HAS2wGlwBvzGYnLx">
     <img alt=Support height="250" src="https://telegra.ph/file/362dd0f0cb45468934804.jpg"> 
     </p>
       <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM BLADE ;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+BLADE-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+ TEAM jace;PUBLIC+RELESED+DATE;2023/08/21;." alt="Typing SVG" /></a>
   </p>
   <p align="center"> 
-  <a href="https://github.com/Bladeh4x/BLADE-MD/stargazers">
-    <img src="https://img.shields.io/github/stars/Bladeh4x/BLADE-MD?style=social">
+  <a href="https://github.com/jaceh4xjace-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/jaceh4x/jace?style=social">
 
  <p align="center">
   <a href="https://github.com/Bladeh4x/BLADE-MD/fork">
@@ -35,7 +35,7 @@
 
 ## Deployment Methods
 ---
-1. ***Get [`SESSION ID`](https://blade-md-qr.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [`SESSION ID`](https://jacemd-qr.onrender.com)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 ##
    
 # ```EXTERNAL STUFF AND API```
@@ -62,7 +62,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Bladeh4x/BLADE-MD">
+    <a href="https://repl.it/github/jaceh4x/jace-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Heroku" >
     </a>
 </p>
@@ -79,7 +79,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Bladeh4x/BLADE-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=8801853262586&env[MONGODB_URI]&&env[OWNER_NAME]=SLASHER&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/jaceh4x/jace-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=8801853262586&env[MONGODB_URI]&&env[OWNER_NAME]=SLASHER&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/1da92586c209009d5131d.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=GOJO&env[PACK_INFO]=BLADE-MD;BY-ALEXDAVID&name=BLADE-MD&env[KOYEB_NAME]=BLADE-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -162,7 +162,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
 <br>
 
- # BLADE MD SUPPORT
+ # jace md SUPPORT
  
  <details close>
 <summary> JOIN OUR WHATSAPP GROUP
@@ -185,7 +185,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 ***<p align="center"> Support us by subscribing our channel </p>***
  
    <p align="left">  
-  <a href="https://youtube.com/@BLADE-MD">
+  <a href="https://youtube.com/@jace-MD">
     <img alt="blade docs" height="100" src="https://t3.ftcdn.net/jpg/03/00/38/90/360_F_300389025_b5hgHpjDprTySl8loTqJRMipySb1rO0I.jpg">
     <h1 align="left">Tap on above Image</h1>
   </a>
@@ -254,19 +254,19 @@ Copy the JSON down and paste in repl then fill the vars
 <h2 align="center">TEAM-BLADE
 </h2>
 
-[![Bladeh4x](https://github.com/Bladeh4x.png?size=200)](https://github.com/Bladeh4x) | 
+[![Bladeh4x](https://github.com/jaceh4x.png?size=200)](https://github.com/jaceh4x) | 
  [![ahil15](https://github.com/ahil15.png?size=200)](https://github.com/ahil15) |
  
   </div>
 
 #### ```TOTAL REPO VIEWS```
 
-![Visitor Count](https://alextv.glitch.me/BLADE-MD/count.svg)
+![Visitor Count](https://alextv.glitch.me/jace-MD/count.svg)
 
-SUPPORT GROUP: <a href="https://chat.whatsapp.com/DLniUfYVWR50sbkZDR8tBI"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
+SUPPORT GROUP: <a href="https://chat.whatsapp.com/KRpe1xiaJa95UOGhIHPSus/DLniUfYVWR50sbkZDR8tBI"><img alt="WhatsApp" src="https://camo.githubusercontent.com/2157131829ac512183ee8f8b6c6f803688a4cc66a2e686602844e80478401a7c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2047726f75702d3235443336363f7374796c653d666f722d7468652d6261646765266c6f676f3d7768617473617070266c6f676f436f6c6f723d7768697465"/></a>
 
 - Star the repo IF u like blade md
 
 ## License
 
-The blade available under the [GPL-3 license](https://github.com/Bladeh4x/BLADE-MD/blob/main/LICENES 
+The blade available under the [GPL-3 license](https://github.com/jaceh4x/jace-MD/blob/main/LICENES 
