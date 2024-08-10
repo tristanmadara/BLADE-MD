@@ -11,8 +11,9 @@ client.on('qr', (qr) => {
 client.on('ready', () => {
     console.log('Jace MD Bot est prêt !');
 
-    // Envoyer une image de Luffy
-    const media = MessageMedia.fromFilePath('chemin/vers/luffy_image.jpg'); // Remplacez par le chemin de votre image
+    // 
+    const media = MessageMedia.fromFilePath('chemin/vers/')![image](https://github.com/user-attachments/assets/8c97a470-dafe-4006-9451-4eec7a9376ef)
+; // Remplacez par le chemin de votre image
     client.sendMessage('numéro_de_destinataire@c.us', media, { caption: 'Voici Luffy ! Jace MD Bot' });
 });
 
