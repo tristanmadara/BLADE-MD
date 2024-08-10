@@ -2,7 +2,7 @@
 
 Un bot WhatsApp multi-appareils créé par l'équipe Jace.
 
-![Luffy](https://lien_vers_votre_image_de_Luffy.jpg)
+https://telegra.ph/file/4370bca28c3c155f9be78.jpg
 
 ## Installation
 
