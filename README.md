@@ -1,32 +1,43 @@
-const { Client, MessageMedia } = require('whatsapp-web.js');
-const qrcode = require('qrcode-terminal');
+# Jace MD Bot
 
-const client = new Client();
+Un bot WhatsApp multi-appareils créé par l'équipe Jace.
 
-client.on('qr', (qr) => {
-    qrcode.generate(qr, { small: true });
-    console.log('QR code généré, scannez-le avec WhatsApp.');
-});
+![Luffy](https://lien_vers_votre_image_de_Luffy.jpg)
 
-client.on('ready', () => {
-    console.log('Jace MD Bot est prêt !');
+## Installation
 
-    // 
-    const media = MessageMedia.fromFilePath('chemin/vers/')![image](https://github.com/user-attachments/assets/8c97a470-dafe-4006-9451-4eec7a9376ef)
-; // Remplacez par le chemin de votre image
-    client.sendMessage('numéro_de_destinataire@c.us', media, { caption: 'Voici Luffy ! Jace MD Bot' });
-});
+1. Clonez le dépôt
+   
+## Support
 
-client.on('message', message => {
-    if (message.body === '!ping') {
-        message.reply('Pong !');
-    }
-});
+Pour toute question ou problème, contactez-nous sur [notre groupe WhatsApp](https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx).
 
-client.initialize();<p align="center">
+---
+
+Merci d'utiliser Jace MD Bot !
+
+https://github.com/user-attachments/assets/e9b01960-43d0-4eee-9f30-0390ea35ceec
+
+## Plateformes de déploiement
+
+Jace MD Bot peut être déployé sur plusieurs plateformes, notamment :
+
+- **Heroku** : Une plateforme cloud qui vous permet de déployer facilement des applications.
+- **Vercel** : Idéal pour les applications front-end, mais peut également être utilisé pour les bots.
+- **Railway** : Une plateforme simple pour déployer vos applications avec des intégrations faciles.
+- **Replit** : Un environnement de développement en ligne qui permet d'exécuter des projets directement dans votre navigateur.
+- **DigitalOcean** : Pour ceux qui préfèrent gérer leur propre serveur.
+- **AWS (Amazon Web Services)** : Pour des solutions plus robustes et évolutives.
+
+Vous pouvez choisir la plateforme qui correspond le mieux à vos besoins et suivre les instructions spécifiques à chaque plateforme pour déployer Jace MD Bot.
+<p align="center">
   <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img alt=Support height="250" src="https://telegra.ph/file/362dd0f0cb45468934804.jpg"> 
-    </p>
-      <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS IS+JACE+MD+BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAM JACE;PUBLIC+RELEASED+DATE;2023/08/21;." alt="Typing SVG" /></a>
-  </p>
+    <img alt="Support" height="250" src="https://t.me/addstickers/chirpani_ghost" />
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=THIS+IS+JACE+MD+BOT;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TEAM+JACE;PUBLIC+RELEASED+DATE;2024/08/11;." alt="Typing SVG" />
+  </a>
+</div>
