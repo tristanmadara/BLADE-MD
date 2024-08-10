@@ -32,7 +32,7 @@ Jace MD Bot peut être déployé sur plusieurs plateformes, notamment :
 Vous pouvez choisir la plateforme qui correspond le mieux à vos besoins et suivre les instructions spécifiques à chaque plateforme pour déployer Jace MD Bot.
 <p align="center">
   <a href="https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx">
-    <img alt="Support" height="250" src="https://t.me/addstickers/chirpani_ghost" />
+    <img alt="Support" height="250" src="https://telegra.ph/file/4370bca28c3c155f9be78.jpg
   </a>
 </p>
 
